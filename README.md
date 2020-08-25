@@ -26,7 +26,7 @@
 <img align="left" alt="Intellij" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intellijidea.svg" />
 
 <br />
-### Statistics:
+###Statistics:
 [![RithDev's github stats](https://github-readme-stats.vercel.app/api?username=RithDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
