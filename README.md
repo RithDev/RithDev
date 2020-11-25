@@ -35,4 +35,4 @@
 
 [website]: https://rith.wtf
 [youtube]: https://youtube.com/c/RithDev
-[discord]: https://discord.gg/m3WdMWx
+[discord]: https://discord.gg/5CkMtX7ZnQ
