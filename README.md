@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rith.wtf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rith.work" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rith | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Rith | Discord" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />][discord]
 
@@ -33,6 +33,6 @@
 <br />
 <br />
 
-[website]: https://rith.wtf
+[website]: https://rith.work
 [youtube]: https://youtube.com/c/RithDev
 [discord]: https://discord.gg/5CkMtX7ZnQ
