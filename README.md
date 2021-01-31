@@ -1,8 +1,6 @@
 ### Rith
 
-<a href="https://discord.predz.cc"><img src="https://discordapp.com/api/guilds/633325309395206156/widget.png?style=shield" alt="Discord Server"></a>
-
-### ***yo i'm Rith (Jack) ***
+### ***yo i'm Rith (Jack)***
 
 Developer and Reverse Engineer
 
