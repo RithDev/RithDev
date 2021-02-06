@@ -7,7 +7,7 @@ Hello, am rith ok? am developer ok? most projects are private ok? some projects 
 #### Tools
 <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-#### Learning 
+#### Languages I know 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 
 ### Statistics
