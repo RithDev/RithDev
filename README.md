@@ -1,5 +1,5 @@
 ## Rith
-Hello, am rith ok? am developer ok? most projects are private ok? some projects are public ok? thanks ok?
+Hello, I am Rith a young talented developer. Most of my projects are privated but soon most of them will be public :) If you use any of my public repositiories you have permission to use under the specified licence, I ask for is a star or a fork if used.
 
 ### Contact
 <a href="https://rith.work/">rith.work</a>
